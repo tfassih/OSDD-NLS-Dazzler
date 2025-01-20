@@ -24,4 +24,30 @@ The parts required are as follows:
 6. The software allows for customization of how "aggressive" the laser jitter behaves  
 7. Integration with major IoT providers  
 
+<h2>Test Machine (HOST):</h2>  
+
+OS: **Windows 11**  
+CPU: **AMD Ryzen 9 5900X 12-core @ 3.7GHz**  
+RAM: **32GB DDR4 CL15**  
+GPU: **Nvidia RTX2080 Super 8GB**  
+STORAGE: **x2 Samsung m.2 NVMe 4TB**  
+
+<h2>Test Microcontroller</h2>  
+
+Brand: **Elegoo**  
+Board: **ATMEGA2560 R3 Arduino-enabled**  
+
+<h2>Test Servo Motors</h2>  
+
+Brand: **TIANKONGRC**  
+Model: **MG995**  
+
+
+
+
+
+
+
+
+
 
