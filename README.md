@@ -16,8 +16,8 @@ The parts required are as follows:
 
 <h2>ROADMAP</h2>
 
-~~1. The device is capable of tracking faces, is able to discern the eyes from the rest of the face, and use that data accordingly to set the targeting data for the servos that aim the laser device~~
-~~2. The platform is fully autonomous~~
+~~1. The device is capable of tracking faces, is able to discern the eyes from the rest of the face, and use that data accordingly to set the targeting data for the servos that aim the laser device~~  
+~~2. The platform is fully autonomous~~  
 ~~3. The software can be fine-tuned for various camera systems and laser devices~~  
 4. The software allows for the uploading of "friendlies" to be excluded from the defense protocol  
 5. The software automatically accounts for known entities such as parcel and mail delivery people, the police, EMS and firefighters, etc  
