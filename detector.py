@@ -17,7 +17,8 @@ port_var = 'COM6'
 
 def send_servo_command(x, y):
     serial_connection = serial_connection_g
-    angle = (int(.0153994 * x) + int(.0153994 * y))
+    # formula for the multiplier is field_of_view_in_degrees/(resolution_x^2 + resolution_y^2); the default assumes a 1080p resolution with a 45 degree fov. We then calculate the distance from the center of the image to determine the angle.
+    angle = (int(.0153994 * x) + int(.0153994 * y)) 
     if y < 0:
         command = f"A{angle}"
     else:
